@@ -27,8 +27,8 @@
 # Unreal Engine folders
 Binaries/
 DerivedDataCache/
-/Intermediate
-/Saved
+Intermediate/
+Saved/
 Build/
 
 # Ignore project files that can be regenerated
@@ -57,5 +57,3 @@ desktop.ini
 
 # Ignore crash reports
 *.dmp
-/Intermediate
-/Saved
