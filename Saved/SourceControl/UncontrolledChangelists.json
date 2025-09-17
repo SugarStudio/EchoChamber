@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickNPC.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/BP_TwinStickProjectile.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/Custom/BP_RoundManager.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/LVL_TwinStick.umap",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickSpawner.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/BP_TwinStickGameMode.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/AI/BP_TwinStickNPCDestruction.uasset",
+				"C:/Users/ander/OneDrive/Documents/Unreal Projects/EchoChamber/Content/Variant_TwinStick/Blueprints/BP_RoundManager.uasset"
+			]
+		}
+	]
+}
